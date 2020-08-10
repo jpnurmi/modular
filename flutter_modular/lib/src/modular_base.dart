@@ -1,5 +1,5 @@
 import 'package:flutter/foundation.dart';
-import 'package:flutter/widgets.dart';
+import 'package:flutter/widgets.dart' hide Router;
 
 import '../flutter_modular.dart';
 import 'interfaces/child_module.dart';
